@@ -37,14 +37,21 @@ Remove additional characters in the location name.
 Exploratory Data Analysis-EDA
 
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few graphs show the result.
+
 
 ![image](https://user-images.githubusercontent.com/73906550/118693883-27b59380-b814-11eb-936b-9aefa7c52a91.png)
 
 
 ![image](https://user-images.githubusercontent.com/73906550/118693945-369c4600-b814-11eb-9cc9-1f017c462220.png)
+
+
 ![image](https://user-images.githubusercontent.com/73906550/118693980-4156db00-b814-11eb-9e13-3d7735b5450a.png)
+
+
 ![image](https://user-images.githubusercontent.com/73906550/118694012-47e55280-b814-11eb-9dd2-5b6576c3c667.png)
+
+
 ![image](https://user-images.githubusercontent.com/73906550/118694047-50d62400-b814-11eb-8c74-b1801b236306.png)
 
 
