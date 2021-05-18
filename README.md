@@ -2,9 +2,6 @@
 Analysis of Data Scientists job market in UK
 
 
-
-Analysis of Data Science jobs in the UK:
-
 Project Overview
 
 * Analysis over 7000 jobs descriptions from CSV data file, from Indeed python.
