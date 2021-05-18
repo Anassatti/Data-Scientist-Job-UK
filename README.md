@@ -56,6 +56,9 @@ I looked at the distributions of the data and the value counts for the various c
 
 
 
+![image](https://user-images.githubusercontent.com/73906550/118716597-aec33580-b82d-11eb-8cdb-04151f6b4d28.png)
+
+
 
 
 
