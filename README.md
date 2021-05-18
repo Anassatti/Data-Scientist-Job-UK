@@ -2,13 +2,13 @@
 Analysis of Data Scientists job market in UK
 
 
-Project Overview
+#Project Overview
 
 * Analysis over 7000 jobs descriptions from Indeed.
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, R, AWS.
 * Built graphs show the jobs market from different perspective. 
 
-Code and Resources Used
+#Code and Resources Used
 
 •	Python Version: 3.8
 
@@ -17,7 +17,7 @@ Code and Resources Used
 Using Jupytor Notebook
 
 
-Data Cleaning
+#Data Cleaning
 
 
  I cleaned the data so that it was usable to be display in meaningful graphs. I made the following changes and created the following variables:
@@ -34,7 +34,7 @@ Column for simplified job title and Seniority
 Column for description length
 Remove additional characters in the location name.
 
-Exploratory Data Analysis-EDA
+#Exploratory Data Analysis-EDA
 
 
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few graphs show that the result.
