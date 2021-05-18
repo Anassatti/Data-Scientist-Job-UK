@@ -14,6 +14,7 @@ Code and Resources Used
 
 •	Packages: pandas, matplotlib, seaborn, plotly.
 
+Using Jupytor Notebook
 
 
 Data Cleaning
