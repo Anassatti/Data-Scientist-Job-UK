@@ -18,6 +18,8 @@ Using Jupytor Notebook
 
 
 Data Cleaning
+
+
  I cleaned the data so that it was usable to be display in meaningful graphs. I made the following changes and created the following variables:
 
 Remove empty column (Salary).
@@ -33,6 +35,8 @@ Column for description length
 Remove additional characters in the location name.
 
 Exploratory Data Analysis-EDA
+
+
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
 ![image](https://user-images.githubusercontent.com/73906550/118693883-27b59380-b814-11eb-936b-9aefa7c52a91.png)
