@@ -11,6 +11,7 @@ Project Overview
 Code and Resources Used
 
 •	Python Version: 3.8
+
 •	Packages: pandas, matplotlib, seaborn, plotly.
 
 
