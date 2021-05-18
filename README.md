@@ -4,7 +4,7 @@ Analysis of Data Scientists job market in UK
 
 Project Overview
 
-* Analysis over 7000 jobs descriptions from CSV data file, from Indeed python.
+* Analysis over 7000 jobs descriptions from Indeed.
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, R, AWS.
 * Built graphs show the jobs market from different perspective. 
 
