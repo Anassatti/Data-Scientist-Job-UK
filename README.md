@@ -8,7 +8,7 @@ Analysis of Data Scientists job market in UK
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, R, AWS.
 * Built graphs show the jobs market from different perspective. 
 
-**Code and Resources Used
+**Code and Resources Used**
 
 •	Python Version: 3.8
 
