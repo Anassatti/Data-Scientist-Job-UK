@@ -37,7 +37,7 @@ Remove additional characters in the location name.
 Exploratory Data Analysis-EDA
 
 
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few graphs show the result.
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few graphs show that the result.
 
 
 ![image](https://user-images.githubusercontent.com/73906550/118693883-27b59380-b814-11eb-936b-9aefa7c52a91.png)
