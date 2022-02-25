@@ -1,5 +1,5 @@
 # Data-Science-Jobs-UK
-Analysis of Data Scientists job market in UK
+This repo is for analysis of Data Scientists job market in UK
 
 
 **Project Overview**
